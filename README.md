@@ -8,7 +8,7 @@
 4. [GIT cli](https://git-scm.com/downloads)
 
 Heroku
-  email id
-  Heroku API key
-  App-name
-    Linux based VM with 500MB
+  1. email id
+  2. Heroku API key
+  3. App-name
+      1. Linux based VM with 500MB
