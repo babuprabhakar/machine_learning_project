@@ -6,3 +6,9 @@
 2. [Heroku Account](https://dashboard.heroku.com/login)
 3. [VS Code IDE](https://code.visualstudio.com/download)
 4. [GIT cli](https://git-scm.com/downloads)
+
+Heroku
+  email id
+  Heroku API key
+  App-name
+    Linux based VM with 500MB
